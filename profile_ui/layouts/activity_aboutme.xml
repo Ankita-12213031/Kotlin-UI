@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="#FAFAFA">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hi! I’m Ankita, a 4th-year student at Lovely Professional University
+        currently pursuing my Bachelor's in Computer Science and Engineering.
+        \n\nI’m an aspiring Software Engineer with a strong passion for frontend development and mobile UI/UX. I’m currently exploring Kotlin UI and building real-world Android projects
+         to sharpen my skills.\n\nBeyond that, I’m actively learning full stack development,while also diving into problem solving, Git and GitHub, and enhancing projects.\n\n"
+        android:textSize="18sp"
+        android:lineSpacingExtra="8dp"
+        android:textColor="#333333"/>
+</ScrollView>
